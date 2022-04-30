@@ -1,0 +1,45 @@
+ul {
+    background-color: black;
+}
+
+li a {
+    color: antiquewhite;
+}
+
+.active {
+    color: brown;
+}
+
+.principal img {
+    width: 100%;
+    height: 50%;
+}
+
+.principal h1 {
+    color: aliceblue;
+    position: absolute;
+    padding: 15%;
+}
+
+#sobre {
+    padding: 17%;
+    background-color: darkgray;
+}
+
+#sobre h1 {
+    color: brown;
+}
+
+#destaques {
+    background-color: brown;
+    padding: 10%;
+}
+
+#destaques h1, h2 {
+    color: white;
+}
+
+.imagemFilme {
+    width: 15%;
+    margin: 3%;
+}
